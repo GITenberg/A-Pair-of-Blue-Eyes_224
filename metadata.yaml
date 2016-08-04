@@ -1,0 +1,36 @@
+_repo: A-Pair-of-Blue-Eyes_224
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: "A Pair of Blue Eyes is a novel by Thomas Hardy, published in 1873, first\
+  \ serialised between September 1872 and July 1873. It was Hardy's third novel, but\
+  \ the first to bear his name on publication.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2008-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '224'
+  wikidata: Q2931240
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Elopement -- Fiction'
+- !lcsh 'Separation (Psychology) -- Fiction'
+- !lcsh 'Wessex (England) -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Didactic fiction'
+- GITenberg
+title: A Pair of Blue Eyes
+url: http://www.gutenberg.org/ebooks/224
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D8%B2%D9%88%D8%AC_%D9%85%D9%86_%D8%A7%D9%84%D8%B9%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D8%B2%D8%B1%D9%82%D8%A7%D8%A1
+- https://nl.wikipedia.org/wiki/A_Pair_of_Blue_Eyes
+- https://en.wikipedia.org/wiki/A_Pair_of_Blue_Eyes
